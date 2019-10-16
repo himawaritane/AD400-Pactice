@@ -3,3 +3,5 @@ Hello Github
 Hello classmates
 We are here for practicing GitHub and discover it
 Github allows you to version control your project
+
+Here is another text to make two commits
